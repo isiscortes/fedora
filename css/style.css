@@ -82,7 +82,8 @@ body .blanco {
     margin: auto;
     display: block; }
   body .blanco .parrafo2 {
-    text-align: center; }
+    text-align: center;
+    padding: 4%; }
   body .blanco .img4 {
     margin: auto;
     display: block;
@@ -90,100 +91,6 @@ body .blanco {
   body .blanco .parrafo4 {
     margin: 40px;
     text-align: center; }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .formatocelular{
@@ -222,7 +129,8 @@ body .blanco {
 footer .darkgrey {
   color: #424242; }
 footer .black-text {
-  color: #000000; }
+  color: #000000;
+  margin-bottom: 2%; }
 footer .lightgray-text {
   color: #9e9e9e; }
 
