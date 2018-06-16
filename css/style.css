@@ -87,7 +87,12 @@ body .blanco {
   body .blanco .img4 {
     margin: auto;
     display: block;
-    width: 70%; }
+    width: 70%;
+    background-size: 90% 90%;
+    background-repeat: no-repeat;
+    padding: 2%;
+    
+     }
   body .blanco .parrafo4 {
     margin: 40px;
     text-align: center; }
