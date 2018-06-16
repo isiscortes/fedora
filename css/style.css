@@ -94,8 +94,17 @@
 
 
 
+.formatocelular{
+  display: inline-block;
+  display: block;
+  margin: auto;
+}
 
-
+.alinear{
+  display: inline-block;
+  display: block;
+  margin: auto;
+}
 
 .franjaazul{
 	background-image: url(../img/blue-pattern.png);
