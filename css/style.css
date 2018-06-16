@@ -1,3 +1,95 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+body .row {
+  margin: 0px;
+  padding: 0px; }
+
+nav .nav-wrapper {
+  background-color: #fafafa; }
+nav .img1 {
+  width: 40%; }
+nav .img2 {
+  width: 60%; }
+
+body .azul {
+  height: 300px;
+  background-color: #0d47a1; }
+  body .azul h3 {
+    margin-top: 50px;
+    font-size: 22pt;
+    color: #fafafa;
+    text-align: center; }
+  body .azul p {
+    font-size: 15pt;
+    color: #fafafa;
+    margin: 50px;
+    padding: 20px;
+    text-align: center; }
+body .morado {
+  background-color: #b388ff;
+  margin: auto;
+  display: block; }
+  body .morado h3 {
+    margin-top: 50px;
+    font-size: 18pt;
+    color: #fafafa;
+    text-align: center;
+    margin-bottom: 50px; }
+  body .morado .verde {
+    background-image: url("../img/ws-main.png");
+    margin: auto;
+    display: block;
+    height: 250px;
+    width: 100%;
+    background-repeat: no-repeat; }
+  body .morado .naranja {
+    background-image: url("../img/server-main.png");
+    margin: auto;
+    display: block;
+    height: 250px;
+    width: 100%;
+    background-repeat: no-repeat; }
+  body .morado .violeta {
+    background-image: url("../img/atomic-main.png");
+    margin: auto;
+    display: block;
+    height: 250px;
+    width: 100%;
+    background-repeat: no-repeat; }
+  body .morado .img3 {
+    margin-top: 50px !important;
+    margin: auto;
+    display: block;
+    width: 30%; }
+body .blanco {
+  background-image: url("../img/grey-pattern.png");
+  margin: auto;
+  display: block;
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat; }
+  body .blanco .bco {
+    margin-top: 50px; }
+  body .blanco hr {
+    margin-top: 50px;
+    background-color: #0d47a1;
+    width: 20%;
+    height: 5px;
+    border-radious: 25px;
+    text-align: center;
+    margin: auto;
+    display: block; }
+  body .blanco .parrafo2 {
+    text-align: center; }
+  body .blanco .img4 {
+    margin: auto;
+    display: block;
+    width: 70%; }
+  body .blanco .parrafo4 {
+    margin: 40px;
+    text-align: center; }
 
 
 
