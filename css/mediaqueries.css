@@ -5,6 +5,11 @@
 	.visibilidad{
 		display: none;
 	}
+
+	.alinear{
+		display: none;
+	}
+
 }
 
 /* Tablet  Small size display*/
@@ -15,12 +20,19 @@
 		display: none;
 	}
 
+	.alinear{
+		display: none;
+	}
 }
 
 /* Laptop  Medium size display*/
 
 @media  all  and (min-width: 992px) and (max-width: 1200px ){
 	.vistacell{
+		display: none;
+	}
+
+	.formatocelular{
 		display: none;
 	}
 
@@ -32,6 +44,10 @@
 
 @media all and (min-width: 1200px){
 	.vistacell{
+		display: none;
+	}
+
+	.formatocelular{
 		display: none;
 	}
 

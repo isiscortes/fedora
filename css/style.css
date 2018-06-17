@@ -1,10 +1,25 @@
-* {
-  margin: 0px;
-  padding: 0px; }
+h3{
+  margin: 0px !important;
+}
 
-body .row {
-  margin: 0px;
-  padding: 0px; }
+.posicion{
+  margin: auto;
+  display: block;
+}
+
+.txtblanco{
+  color: white;
+  text-align: center;
+  padding-top: 3%;
+}
+
+.row{
+  margin-bottom: 0px !important;
+}
+
+.row .col {
+  margin: 0px !important;
+  padding: 0px  !important; }
 
 nav .nav-wrapper {
   background-color: #fafafa; }
@@ -14,10 +29,10 @@ nav .img2 {
   width: 60%; }
 
 body .azul {
-  height: 300px;
+  height: 500px;
   background-color: #0d47a1; }
   body .azul h3 {
-    margin-top: 50px;
+    padding-top: 50px;
     font-size: 22pt;
     color: #fafafa;
     text-align: center; }
@@ -27,34 +42,28 @@ body .azul {
     margin: 50px;
     padding: 20px;
     text-align: center; }
-body .morado {
+  .morado {
   background-color: #b388ff;
-  margin: auto;
-  display: block; }
-  body .morado h3 {
+  padding: 6%;
+}
+  .morado h3 {
     margin-top: 50px;
     font-size: 18pt;
     color: #fafafa;
     text-align: center;
     margin-bottom: 50px; }
-  body .morado .verde {
+  .verde {
     background-image: url("../img/ws-main.png");
-    margin: auto;
-    display: block;
     height: 250px;
     width: 100%;
     background-repeat: no-repeat; }
-  body .morado .naranja {
+  .naranja {
     background-image: url("../img/server-main.png");
-    margin: auto;
-    display: block;
     height: 250px;
     width: 100%;
     background-repeat: no-repeat; }
-  body .morado .violeta {
+  .violeta {
     background-image: url("../img/atomic-main.png");
-    margin: auto;
-    display: block;
     height: 250px;
     width: 100%;
     background-repeat: no-repeat; }
@@ -63,11 +72,11 @@ body .morado {
     margin: auto;
     display: block;
     width: 30%; }
-body .blanco {
+  .blanco {
   background-image: url("../img/grey-pattern.png");
   margin: auto;
   display: block;
-  height: 500px;
+  height: 300px;
   width: 100%;
   background-repeat: no-repeat; }
   body .blanco .bco {
@@ -83,7 +92,8 @@ body .blanco {
     display: block; }
   body .blanco .parrafo2 {
     text-align: center;
-    padding: 4%; }
+    padding: 4%; 
+    margin: 0px; }
   body .blanco .img4 {
     margin: auto;
     display: block;
@@ -97,6 +107,14 @@ body .blanco {
     margin: 40px;
     text-align: center; }
 
+button{
+  margin: auto;
+  display: block;
+  background-color: #0d47a1;
+  color: white;
+  padding: 5%;
+  border-radius: 50%;
+}
 
 .formatocelular{
   display: inline-block;
@@ -123,7 +141,8 @@ body .blanco {
   padding: 5%; }
 
 .centrartxt {
-  text-align: center; }
+  text-align: center;
+  margin-bottom: 5%; }
 
 .txtazul {
   color: #039be5; }
